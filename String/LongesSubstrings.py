@@ -52,3 +52,7 @@ class Solution(object):
             return len(new)
         
         return longestSubstringLength
+    
+    
+    
+    
